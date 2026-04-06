@@ -3,8 +3,8 @@ A formal IT consulting report recommending Windows Server and A Python simulator
 
 
 # CS 510 - Operating System Principles
-### Project One: A formal IT consulting report recommending Windows Server 2025 for a fictional fintech client
-### Project Two: A live system monitor built in Python that surfaces CPU, memory, disk, and threading activity from your own machine
+**Project One:** A formal IT consulting report recommending Windows Server 2025 for a fictional fintech client
+**Project Two:** A live system monitor built in Python that surfaces CPU, memory, disk, and threading activity from your own machine
 
 ---
 
