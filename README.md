@@ -6,7 +6,7 @@ A formal IT consulting report recommending Windows Server and A Python simulator
 
 **6-1 Project One:** A formal IT consulting report recommending Windows Server 2025 for a fictional fintech client
 
-**9-1 Final Project:** A live system monitor built in Python that surfaces CPU, memory, disk, and threading activity from your own machine
+**9-1 Project Two:** A live system monitor built in Python that surfaces CPU, memory, disk, and threading activity from your own machine
 
 ---
 
