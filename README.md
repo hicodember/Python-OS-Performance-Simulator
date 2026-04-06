@@ -31,11 +31,12 @@ cs510-os-principles/
 │
 ├── project-one/
 │   ├── README.md                      ← Project One overview
-│   └── CS-510_Project_One.docx        ← Full OS recommendation report (APA cited)
+│   └── CS-510_Project_One             ← Full OS recommendation report (APA cited)
 │
 └── project-two/
     ├── README.md                      ← Project Two overview
     ├── CS-510_Project_Two.py          ← Python OS performance simulator
+    ├── 9-1_Project_Two.pdf            ← Full documentation report (APA cited)
     ├── projecttwo.txt                 ← Sample file for disk statistics demo
     └── Terminal_Screenshot.png        ← Live terminal output
 ```
