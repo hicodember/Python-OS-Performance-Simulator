@@ -1,49 +1,47 @@
-## CS 510 Project One Recommendation Report Template
+CS 510 Project One Recommendation Report Template
 Operating System Under Evaluation: Microsoft Windows Server 2025
 Prepared by: TechSecure Solutions Consulting
 Client: GlobalFinTech Inc.
 Author: Amber Foster
 Date: March 15, 2026
 
-# Document Overview
+
+Document Overview
 This report presents a comprehensive assessment of Microsoft Windows Server 2025 for GlobalFinTech Inc., a financial technology firm that requires a secure, stable, and high-performance operating system to support its cloud infrastructure. The assessment examines the OS across nine critical areas, including security, stability, architecture, resource management, failure tolerance, distributed environment capabilities, and performance. The goal is to determine whether Windows Server 2025 meets the organization’s operational, regulatory, and long‑term scalability needs (Krause, 2024; Thomas, 2025).
 
-# Company Context
+Company Context
 TechSecure Solutions is an IT consulting firm focused on infrastructure assessments, cybersecurity strategy, and enterprise technology guidance for regulated industries. The firm routinely supports clients operating under strict compliance frameworks such as PCI-DSS, SOC 2, HIPAA, and NIST 800-53. GlobalFinTech Inc., the client, processes sensitive financial transactions and requires an operating system that ensures strong data confidentiality, high availability, and efficient resource utilization. The OS must support hybrid cloud integration, real time analytics workloads, and a defensible compliance posture suitable for financial regulatory audits (Panek, 2025). 
 
-# Recommendation
+Recommendation
 Windows Server 2025 Datacenter Edition is the recommended platform for GlobalFinTech’s secure cloud environment, offering a hardened security baseline, robust identity and access controls, enterprise grade redundancy, and seamless hybrid cloud integration. It supports long term compliance requirements, offers significant performance improvements over previous versions, and aligns well with the operational demands of financial services environments (Zacker, 2025). While early release issues and licensing costs introduce implementation considerations, these challenges can be effectively managed through careful planning, hardware validation, and a phased deployment approach. Overall, Windows Server 2025 offers the best combination of security, stability, and scalability for GlobalFinTech’s needs (Thomas, 2025). 
 
-## Evaluation
-# Security Principles and Mechanisms
+Evaluation
+Security Principles and Mechanisms
 Windows Server 2025 employs a multilayered security architecture that protects the system from the firmware level up through the application stack. Secured core server features, TPM based trust, Secure Boot, and virtualization-based protections establish a strong foundation against low level attacks (Krause, 2024). Identity and access controls are strengthened through encrypted directory communications, hardened authentication defaults, and isolated credential storage. Built in protections such as Credential Guard, LAPS, and brute force attack mitigation reduce exposure to common attack vectors (Thomas, 2025). Data confidentiality is supported through full disk encryption, encrypted file sharing protocols, and hardened firewall configurations. While Windows systems historically face a larger attack surface due to widespread adoption, the OS includes extensive built in mitigation tools and centralized security management options (Zacker, 2025). 
 
-# Stability and Reliability Features
+Stability and Reliability Features
 Windows Server 2025 strengthens system stability through improved kernel memory protections, stricter driver validation, and enhanced code integrity enforcement. These measures reduce the likelihood of crashes caused by faulty drivers or malicious kernel level code (Thomas, 2025). A major advancement is hotpatching, which allows critical updates to be applied without rebooting, significantly reducing planned downtime. Redundancy features such as Failover Clustering, Network Load Balancing, and Storage Spaces Direct ensure continuous operation even during hardware or node failures (Panek, 2025). 
 
-# Integrity, Confidentiality, and Availability
+Integrity, Confidentiality, and Availability
 The OS safeguards data integrity by using resilient file systems that can detect and repair corruption. Encryption technologies safeguard data at rest, while secure communication protocols protect data in transit (Krause, 2024). Availability is reinforced through integrated monitoring tools, real‑time telemetry, and centralized logging. These capabilities allow administrators to detect anomalies, investigate security events, and maintain service continuity (Zacker, 2025). Access controls, policy enforcement, and role based permissions ensure that only authorized users can interact with sensitive systems or data (Thomas, 2025). 
 
-# OS Architecture
+OS Architecture:
 Windows Server 2025 uses a hybrid kernel design that clearly separates user mode and kernel mode operations, enhancing fault isolation and overall system stability. Its preemptive multitasking scheduler prioritizes critical workloads, ensuring consistent performance for time sensitive financial transactions (Thomas, 2025). Memory management uses demand paging, working set optimization, and hardware enforced integrity to protect against unauthorized modifications. The modular architecture enables individual server roles and services to be deployed and updated independently, improving maintainability and reducing operational risk. Architectural support for modern hardware acceleration ensures long term performance scalability (Krause, 2024). 
 
-# System Resources
+System Resources
 The OS allocates CPU, memory, and storage resources efficiently during both routine and peak workloads. NUMA aware scheduling optimizes CPU performance on multi-socket servers, while dynamic memory and improved deduplication enhance memory utilization in virtualized environments (Zacker, 2025). Storage performance is significantly improved through NVMe optimization and software defined storage capabilities, enabling high throughput, low latency access for transaction heavy workloads (Panek, 2025). 
 
-# Failure Metrics
+Failure Metrics
 Windows Server 2025 delivers high availability through clustering, rapid failover capabilities, and automated recovery processes. System monitoring tools help detect failures early, reducing mean time to repair (Thomas, 2025). The OS’s reliability improves with each release, and features like hotpatching help minimize maintenance related downtime. Known early release issues have been addressed through cumulative updates, and remaining risks are well documented and manageable (Krause, 2024). 
 
-# Distributed Environments
+Distributed Environments
 The OS is built for distributed enterprise environments, providing centralized authentication, efficient directory replication, and multi-site storage replication. (Zacker, 2025). Distributed file systems, synchronous and asynchronous replication options, and cluster aware networking ensure consistent performance and data availability across geographically dispersed nodes (Panek, 2025). Low latency networking features support real time analytics and highspeed inter node communication, which are essential for financial transaction processing (Thomas, 2025). 
 
-# Key Performance Metrics
+Key Performance Metrics
 Windows Server 2025 delivers strong performance across CPU, memory, storage, and networking workloads. Improved scheduling, large page memory support, and NVMe optimizations enhance throughput for compute and data intensive workloads (Krause, 2024). Virtualization performance is strengthened through GPU partitioning, nested virtualization, and live migration capabilities, supporting flexible cloud and hybrid deployments (Panek, 2025). These performance characteristics align well with GlobalFinTech’s need for scalable, high availability infrastructure (Thomas, 2025).
 
-# References
+References
 Krause, J. (2024). Mastering Windows Server 2025 (5th ed.). Packt Publishing. https://www.oreilly.com/library/view/mastering-windows-server/9781837029914/ 
-
 Panek, W. (2025). Running Windows Server 2025 on Microsoft Azure. Sybex/Wiley. https://www.oreilly.com/library/view/running-windows-server/9781394352852/ 
-
 Thomas, O. (2025). Windows Server inside out: Updated for Windows Server 2025. Microsoft Press. https://www.oreilly.com/library/view/windows-server-inside/9780135345863/ 
-
 Zacker, C. (2025). Windows Server 2025 administration fundamentals (4th ed.). Packt Publishing. https://www.oreilly.com/library/view/windows-server-2025/9781836205012/
