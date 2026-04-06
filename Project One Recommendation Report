@@ -25,7 +25,7 @@ Windows Server 2025 strengthens system stability through improved kernel memory 
 Integrity, Confidentiality, and Availability
 The OS safeguards data integrity by using resilient file systems that can detect and repair corruption. Encryption technologies safeguard data at rest, while secure communication protocols protect data in transit (Krause, 2024). Availability is reinforced through integrated monitoring tools, real‑time telemetry, and centralized logging. These capabilities allow administrators to detect anomalies, investigate security events, and maintain service continuity (Zacker, 2025). Access controls, policy enforcement, and role based permissions ensure that only authorized users can interact with sensitive systems or data (Thomas, 2025). 
 
-OS Architecture:
+OS Architecture
 Windows Server 2025 uses a hybrid kernel design that clearly separates user mode and kernel mode operations, enhancing fault isolation and overall system stability. Its preemptive multitasking scheduler prioritizes critical workloads, ensuring consistent performance for time sensitive financial transactions (Thomas, 2025). Memory management uses demand paging, working set optimization, and hardware enforced integrity to protect against unauthorized modifications. The modular architecture enables individual server roles and services to be deployed and updated independently, improving maintainability and reducing operational risk. Architectural support for modern hardware acceleration ensures long term performance scalability (Krause, 2024). 
 
 System Resources
