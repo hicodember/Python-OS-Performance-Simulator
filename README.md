@@ -243,9 +243,9 @@ Key takeaways from the analysis:
 
 ## About the Author
 
-**Ember Foster** is the founder of [Codember LLC](https://codember.com), a Houston based software engineering practice, and a graduate student in Computer Science (Software Engineering concentration). Her background spans full-stack development, cloud infrastructure, hardware diagnostics, and applied AI systems.
+**Ember Foster** is the founder of Codember LLC, a Texas-based software engineering practice, and a graduate student in Computer Science (Software Engineering concentration). Her background spans full-stack development, cloud infrastructure, hardware diagnostics, and applied AI systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[LinkedIn](https://www.linkedin.com/in/codember/)
 
 ---
 
