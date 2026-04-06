@@ -1,10 +1,10 @@
 # Python-OS-Performance-Simulator
-A Python simulator using psutil to demonstrate OS concepts like CPU scheduling, memory management, threading, and disk allocation live on your machine.
+A formal IT consulting report recommending Windows Server and A Python simulator using psutil to demonstrate OS concepts like CPU scheduling, memory management, threading, and disk allocation live on your machine.
 
----
 
 # CS 510 - Operating System Principles
-**Southern New Hampshire University · M.S. Computer Science**
+### Project One: A formal IT consulting report recommending Windows Server 2025 for a fictional fintech client
+### Project Two: A live system monitor built in Python that surfaces CPU, memory, disk, and threading activity from your own machine
 
 ---
 
