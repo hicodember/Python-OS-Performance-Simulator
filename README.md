@@ -241,12 +241,4 @@ Key takeaways from the analysis:
 
 ---
 
-## About the Author
-
-**Ember Foster** is the founder of Codember LLC, a Texas-based software engineering practice, and a graduate student in Computer Science (Software Engineering concentration). Her background spans full-stack development, cloud infrastructure, hardware diagnostics, and applied AI systems.
-
-[LinkedIn](https://www.linkedin.com/in/codember/)
-
----
-
 *This project was completed as part of the M.S. Computer Science program (2026). Simulator tested on macOS with a 10-core Apple Silicon processor and 24 GB RAM.*
